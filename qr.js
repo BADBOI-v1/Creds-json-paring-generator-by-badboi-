@@ -61,9 +61,9 @@ router.get('/', async (req, res) => {
 
 ⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
 
-⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VacfoR64yltHmtm6Ky0T
+⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
 
-⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
+⎆Whatsapp GC :
 
 ⎆WhatsApp Number: +2348140825959
 
@@ -84,7 +84,7 @@ router.get('/', async (req, res) => {
 └┬❖  
 ┌┤✑  Thanks for using BAD-BOI Bot
 │└────────────┈ ⳹        
-│©2023-2024 BAD-BOI V2
+│©2023-2024 BAD-BOI 
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
  
 
